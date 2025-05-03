@@ -38,5 +38,5 @@
 ![CodeSandbox](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)
 
 # 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-profile-trophy.vercel.app/?username=xsol05&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-readme-stats.vercel.app/api?username=Ryn-Bghl&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-profile-trophy.vercel.app/?username=Ryn-Bghl&theme=radical&no-frame=false&no-bg=true&margin-w=4)
